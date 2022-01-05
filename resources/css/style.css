@@ -1,9 +1,9 @@
 html {
-  background-color: rgb(211, 104, 104);
+  background-color: black;
 }
 
 body {
-  text-align: left;
+  text-align: center;
   font-family: Verdana;
 }
 
@@ -19,6 +19,23 @@ h2 {
   font-size: 42px;
 }
 
+p {
+  color: gray;
+  font-size: 21px;
+}
+
 a {
   color: aquamarine;
+}
+
+#video {
+  margin-top: 23px;
+}
+
+#phone_logo {
+  margin-top: 25px;
+}
+
+footer {
+  text-align: right;
 }
